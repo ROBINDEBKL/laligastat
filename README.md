@@ -16,3 +16,8 @@ For the add-on function, we would like to incorporate the two dimensions of comp
 ### BUSINESS MODEL
 
 Out business model is based on MIT license (expat), and we are making profit by providing additional support to users. The base network is open-source, and everyone has the access to it. But in order to get premium support and more intricate statistics, they need to pay.
+
+Collaborators:
+Robin Hong
+Zhuohao Lin
+Mark Yu
